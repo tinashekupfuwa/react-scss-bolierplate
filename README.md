@@ -1,4 +1,4 @@
-# Welcome to the react-scss-boilerplate 
+# React-scss-boilerplate 
 
 Please feel free to use this boilerplate and modify.
 
