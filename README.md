@@ -1,6 +1,10 @@
 # React-scss-boilerplate 
 
-Please feel free to use this boilerplate and modify.
+This is a custom react boilerplate that supports scss.It contains two essential scss partials which are 
+
+- resets
+- variables
+
 
 ## Available Scripts
 
