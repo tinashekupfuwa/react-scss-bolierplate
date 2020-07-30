@@ -25,6 +25,7 @@ All the .scss files are located in the root , in a folder called styles.Please r
 ```
 3. Enjoy
 
+<hr>
 
 ## Available Scripts
 
