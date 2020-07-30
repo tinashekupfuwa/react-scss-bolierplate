@@ -1,6 +1,6 @@
-# react-scss-boilerplate 
+# Welcome to the react-scss-boilerplate 
 
-Please feel free to use this boilerplate.
+Please feel free to use this boilerplate and modify.
 
 ## Available Scripts
 
