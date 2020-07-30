@@ -5,12 +5,12 @@ This is a custom react boilerplate that supports scss.It contains two essential 
 - resets
 - variables
 
-
+<hr>
 ## Instructions
 
 1. install Scss Compiler from https://github.com/ritwickdey/vscode-live-sass-compiler
 All the .scss files are located in the root , in a folder called styles.Please remember that .css files are not alloswed to be modifed, modiy the .scss files using Scss Compiler https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
-2. Edit settings.json in your vs code the settings below.
+2. Edit settings.json in vscode  by adding the settings below.
 
 ```json
 
@@ -23,6 +23,8 @@ All the .scss files are located in the root , in a folder called styles.Please r
   ]
 
 ```
+3. Enjoy
+
 
 ## Available Scripts
 
